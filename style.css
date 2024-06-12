@@ -1,3 +1,27 @@
 body {
-    background-color: #f4effa;
+    background-color: whitesmoke;
+    margin-top: 5%;
+    padding-left: 10%; 
+    padding-right: 10%; 
 }
+
+img {
+    height: 180px;
+    width: 150px;
+    position: absolute;
+    top: 10%;
+    left: 78%;
+
+}
+
+h1 {
+    color: rgb(47, 115, 183);
+    margin: 0;
+    padding: 0;
+    font-size: 3rem;
+}
+
+hr {
+    margin-top: 5%;
+}
+
